@@ -10,7 +10,7 @@ The current repository will provide the backend framework for the application, w
 
 Run `bundle install` to make sure all code and gem dependencies are resolved.
 
-####You must additionally fork and clone the repository at `https://github.com/cristalcodes/pin-it-frontend-` .
+####You must additionally fork and clone the repository at `https://github.com/merrycrismoz/pin-it-frontend` .
 
 This respository will provide the frontend framework that is necessary for running the application.
 
